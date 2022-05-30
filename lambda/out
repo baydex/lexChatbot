@@ -1,0 +1,1 @@
+{"errorType":"TypeError","errorMessage":"Cannot read property 'sessionAttributes' of undefined","trace":["TypeError: Cannot read property 'sessionAttributes' of undefined","    at Runtime.handler (/var/task/index.js:10:32)","    at Runtime.handleOnce (/var/runtime/Runtime.js:66:25)"]}

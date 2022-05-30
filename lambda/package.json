@@ -1,0 +1,27 @@
+{
+  "name": "chatbotdemoubiqo",
+  "version": "1.0.0",
+  "description": "Proyecto base de ejemplo para chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-ts": "tsc"
+  },
+  "keywords": [
+    "Lex"
+  ],
+  "author": "Pablo López",
+  "license": "ISC",
+  "dependencies": {
+    "@types/aws-lambda": "^8.10.93",
+    "@types/moment-timezone": "^0.5.30",
+    "moment-timezone": "^0.5.34",
+    "nodemailer": "^6.7.5",
+    "typed-rest-client": "^1.8.6",
+    "typescript": "^4.6.3"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.27",
+    "@types/nodemailer": "^6.4.4"
+  }
+}
